@@ -2,19 +2,17 @@
 
 ## What makes the Code Lab different? Who is it for?
 
-Lansing Code Lab is less of a course and more of a gym membership for coding.
-
 ### After work/school
 
-We assume you're already a full-time student or professional. You don't live at the gym, and you don't want to drop everything to advance your coding skills either. So we focus on helping people who might want to include code as part of their _current_ career, rather than those wishing to completely change careers. Because just like everyone should get exercise, we believe _everyone_ should have a chance to learn to code. No matter what your goals are, programming can help you be orders of magnitude more effective in achieving them.
+We focus on helping people who might want to include code as part of their _current_ career, rather than those wishing to completely change careers. We assume you're already a full-time student or professional, so you don't have to drop everything to advance your coding skills. Because we believe _everyone_ should have a chance to learn to code. No matter what your goals are, programming can help you be orders of magnitude more effective in achieving them.
 
 ### Real world
 
-Unlike many online courses, where you might code in a little window on a website, we believe in removing as many abstractions from real work as possible. That means you'll be doing all your work on your own laptop, using the tools and processes that actual developers use. And with every project, you'll make real websites, live on the Internet. You don't pretend to work out at the gym, you do it. At the Code Lab, you will be an Actual Developer from day one.
+Unlike many online courses, where you might code in a little window on a website, we believe in removing as many abstractions from real work as possible. That means you'll be doing all your work on your own laptop, using the tools and processes that actual developers use. And with every project, you'll make real websites, live on the Internet. At the Code Lab, you'll be an Actual Developer from day one.
 
 ### Personal training
 
-You get much better results at the gym with a personal trainer - an expert not just in fitness, but also in coaching. The Lansing Code Lab's lead instructor is not just a professional web developer, but also a trained and experienced educator. This sets us apart from the vast majority of bootcamps, university degree programs, and online courses. We integrate cutting edge curriculum design with educational psychology to bring you a uniquely student-directed and emotionally intelligent experience.
+The Lansing Code Lab is led not only by a professional web developer, but also a trained and experienced educator. This sets us apart from the vast majority of bootcamps, university degree programs, and online courses. By integrate cutting edge curriculum design with educational psychology, we bring you a uniquely student-directed and emotionally intelligent experience.
 
 ### The Code Lab is for you
 
