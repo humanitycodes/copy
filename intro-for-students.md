@@ -12,7 +12,7 @@ Unlike many online courses, where you might code in a little window on a website
 
 ### Personal training
 
-The Lansing Code Lab is led not only by a professional web developer, but also a trained and experienced educator. This sets us apart from the vast majority of bootcamps, university degree programs, and online courses. By integrate cutting edge curriculum design with educational psychology, we bring you a uniquely student-directed and emotionally intelligent experience.
+The Lansing Code Lab is led not only by a professional web developer, but also a trained and experienced educator. This sets us apart from the vast majority of bootcamps, university degree programs, and online courses. By integrating cutting edge curriculum design with educational psychology, we bring you a uniquely student-directed and emotionally intelligent experience.
 
 ### The Code Lab is for you
 
