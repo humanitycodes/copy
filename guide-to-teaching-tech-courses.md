@@ -59,7 +59,7 @@ So what can you do to help people overcome these barriers to Googling? My #1 str
 - When someone is afraid, respect their fears and sympathize. It never hurts to just say, "Yeah, this stuff can be frustrating sometimes." __Don't tell them not to be afraid__. But if there's something they didn't realize, calmly and cheerfully explain it to them.
 - Tell, don't show. When possible and if anxiety levels are low enough, explain to students how something works before telling them what to do. And tell them what to do before showing them what to do. Make them do as much work as possible and only make their lives easier if something is happening that you don't think they should have to learn about yet.
 
-## It's not personal.
+## It's not personal
 
 Everyone comes with their own baggage. If they become frustrated, angry - even downright indignant, remember: it's probably not about you. I've had students scream at me, break down in tears for no apparent reason, get into physical fights with other students, accuse me of lying to them or wanting to hurt them.
 
